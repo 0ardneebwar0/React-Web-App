@@ -1,4 +1,4 @@
-<h1>Introduction</h1>
+#Introduction
 
 Travel planning can be a time-consuming and overwhelming process, especially when trying to find the best flights, accommodations, and activities tailored to individual preferences. The Travel Full Package Recommendation System addresses this challenge by offering users personalized suggestions for flights, Airbnb accommodations, and places to visit in a destination city. The system uses a combination of content-based and collaborative filtering methods, considering users' preferences, past choices, and similarities with other users. This document provides a detailed description of the project's implementation, the algorithms used, data processing, and future plans for merging the content-based and collaborative filtering approaches.
 
