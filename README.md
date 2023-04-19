@@ -4,6 +4,8 @@ Travel planning can be a time-consuming and overwhelming process, especially whe
 
 # System Overview
 
+![SYSTEM PIPELINE IMG](PIPELINE_RECO.png)
+
 The recommendation system consists of three main components: flight recommendations, Airbnb recommendations, and places to visit recommendations. These components are merged to generate a single recommendation for the user. The system begins by obtaining the user's location and recommending a flight based on their preferences. Once the destination city is determined, the system proceeds to suggest Airbnb accommodations and places to visit in the city. The final output includes a flight to a specific city, Airbnb accommodation, and a place to visit within that city.
 
 # Data Preparation
